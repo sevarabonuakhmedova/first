@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  margin: 0;
+}
+
+.info{
+  background-color: plum;
+  margin: 0;
+  padding: 15px;
+}
+.medical{
+  padding: 15px;
+}
+.first_table {
+  margin: 15px;
+  border-spacing: 10px;
+}
+
+.second_table {
+  margin: 15px;
+  border-spacing: 10px;
+}
+.emergency{
+  padding: 15px;
+}
+
